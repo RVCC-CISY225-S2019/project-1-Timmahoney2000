@@ -61,7 +61,7 @@ img.logo {
   padding: 4em;
   max-width: 100%;
   background-color: #294860;
-  color: white;
+  color: cadetblue;
 }
 
 img.my-picture {
@@ -70,7 +70,7 @@ img.my-picture {
   /*max-width: 100%;*/
   width: 8rem;
   height: 8rem;
-  border: 2px solid white;
+  border: 2px solid black;
   border-radius: 50%;
 }
 
@@ -102,7 +102,7 @@ img.my-picture {
 }
 
 .my-location {
-    color: rgba(255,255,255, 0.8);
+    color: rgba(210,210,210, 0.8);
     font-size: 1rem;
     font-weight: 600;
     text-align: center;
