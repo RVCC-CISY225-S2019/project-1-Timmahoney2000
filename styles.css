@@ -4,14 +4,14 @@ body {
 
 }
 
-.content {
+content {
   max-width: 30rem;
   margin-left: auto;
   margin-right: auto;
   /*height: 100%;*/
 }
 
-.header {
+header {
   /*height: 25vw;*/
   /*max-height: 150px;*/
   /*width: 100%;*/
@@ -26,7 +26,7 @@ img.logo {
   float: left;
 }
 
-.page-title {
+page-title {
   color: #6B6B6B;
   float: left;
   font-size: 1.1rem;
@@ -34,30 +34,30 @@ img.logo {
 }
 
 @media screen and (max-width: 24rem) {
-  .big-title {
+  big-title {
     font-size: 1.5rem;
   }
 }
 
 @media screen and (min-width: 40rem) {
-  .big-title {
+  big-title {
     font-size: 2rem;
   }
 }
 
 @media screen and (min-width: 34rem) {
-  .header-content {
+  header-content {
     padding-top: 1rem;
   }
 }
 
 @media screen and (max-width: 33rem) {
-  .header-content {
+  header-content {
     padding-top: .5rem;
   }
 }
 
-.hero {
+hero {
   padding: 4em;
   max-width: 100%;
   background-color: #0d1114;
@@ -74,7 +74,7 @@ img.my-picture {
   border-radius: 50%;
 }
 
-.iama {
+iama {
   max-width: 100%;
   color: #294860;
   font-size: 1.1em;
@@ -89,11 +89,11 @@ img.my-picture {
   margin: 0px auto 3em;
 }
 
-.my-info:last-of-type {
+my-info:last-of-type {
   margin: 0px;
 }
 
-.my-name {
+my-name {
   color: white;
   font-size: 1.6rem;
   font-weight: 600;
@@ -101,7 +101,7 @@ img.my-picture {
   margin-bottom: 0;
 }
 
-.my-location {
+my-location {
     color: rgba(255,255,255, 0.8);
     font-size: 1rem;
     font-weight: 600;
@@ -109,11 +109,11 @@ img.my-picture {
     text-transform: uppercase;
 }
 
-.about-me {
+about-me {
   padding: 2.5em;
 }
 
-.about-content {
+about-content {
     border-left: 1px solid #DFEAF1;
     padding-left: 3rem;
 }
