@@ -70,7 +70,7 @@ img.my-picture {
   /*max-width: 100%;*/
   width: 8rem;
   height: 8rem;
-  border: 2px solid black;
+  border: 5px solid black;
   border-radius: 50%;
 }
 
@@ -102,7 +102,7 @@ img.my-picture {
 }
 
 .my-location {
-    color: rgb(234, 142, 36);
+    color: rgb(200, 200, 400);
     font-size: 1rem;
     font-weight: 600;
     text-align: center;
