@@ -83,7 +83,7 @@ img.my-picture {
 
 .my-info {
   max-width: 100%;
-  color: #faf8f8;
+  color: #000000;
   font-size: 1.6rem;
   line-height: 1.5;
   margin: 0px auto 3em;
@@ -94,7 +94,7 @@ img.my-picture {
 }
 
 .my-name {
-  color: white;
+  color: black;
   font-size: 1.6rem;
   font-weight: 600;
   text-align: center;
@@ -102,7 +102,7 @@ img.my-picture {
 }
 
 .my-location {
-    color: rgba(255,255,255, 0.8);
+    color: #rgb(31, 191, 239);
     font-size: 1rem;
     font-weight: 600;
     text-align: center;
