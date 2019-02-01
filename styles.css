@@ -23,6 +23,7 @@ body {
 img.logo {
   max-height: 100%;
   width: 3rem;
+  color: black
   float: left;
 }
 
@@ -61,7 +62,7 @@ page-title {
   padding: 4em;
   max-width: 100%;
   background-color: #ea6827;
-  color: white;
+  color: blue;
 }
 
 img.my-picture {
