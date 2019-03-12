@@ -68,7 +68,7 @@ page-title {
 img.my-picture {
   display: block;
   margin: 0 auto 2em;
-  /*max-width: 100%;*/
+  max-width: 100%;
   width: 8rem;
   height: 8rem;
   border: 2px solid rgb(236, 234, 240);
