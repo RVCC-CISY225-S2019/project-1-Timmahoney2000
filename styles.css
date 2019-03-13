@@ -68,12 +68,11 @@ page-title {
 img.my-picture {
   display: block;
   margin: 0 auto 2em;
- /* max-width: 100%; */
-  width: 8rem;
-  height: 8rem;
-  border: 2px solid rgb(236, 234, 240);
+  /*max-width: 100%;*/ 
+  width: 10rem;
+  height: 10rem;
+  border: 2px solid white;
   border-radius: 50%;
- object-fit: contain;
 }
 
 .iama {
@@ -121,3 +120,4 @@ img.my-picture {
  background-color: #1fbfef;
     padding-left: 3rem;
 }
+
