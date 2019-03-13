@@ -66,14 +66,13 @@ page-title {
 }
 
 img.my-picture {
-  display: inline-flex;
+  display: block;
   margin: 0 auto 2em;
  /* max-width: 100%; */
   width: 8rem;
   height: 8rem;
   border: 2px solid rgb(236, 234, 240);
   border-radius: 50%;
- object-fit:contain;
 }
 
 .iama {
